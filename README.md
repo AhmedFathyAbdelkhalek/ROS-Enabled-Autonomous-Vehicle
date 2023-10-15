@@ -3,6 +3,7 @@ This is my code to develop a ROS-enabled autonomous vehicle. The code runs on a 
 
 The car utilizes the following hardware electronics shown in the schematic:
 
-![diagram](https://github.com/AhmedFathyAbdelkhalek/ROS-Enabled-Autonomous-Vehicle/assets/89396236/91327dcb-4194-4185-b973-71ec617fdd9a)
+![diagram](https://github.com/AhmedFathyAbdelkhalek/ROS-Enabled-Autonomous-Vehicle/assets/89396236/5e08145b-5d8d-4990-b7e7-ed099c4345bf)
 
 The Arduino uses standard PyFirmata to receive controller actions from the Pi and send them to the motors. There's a DC motor for longitudinal control and a micro servo for lateral control.
+
