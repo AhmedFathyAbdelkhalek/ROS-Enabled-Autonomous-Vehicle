@@ -4,3 +4,4 @@ This is my code to develop a ROS-enabled autonomous vehicle. The code runs on a 
 The car utilizes the following hardware shown in the schematic
 
 ![plot](G:\GUC\Semester 10\Autonomous Systems\Project\ROS-Enabled-Autonomous-Vehicle\diagram.png)
+![Alt text](relative%20diagram.jpg?raw=true "Title")
